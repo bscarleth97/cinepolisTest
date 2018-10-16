@@ -1,0 +1,23 @@
+{
+    "sessionId":"61f2a247d1343efed717d082e409d0d9",
+    "value":[{"ELEMENT":"0.60383775534927-5","element-6066-11e4-a52e-4f735466cecf":"0.6650383775534927-5",
+elector":".col9","value":{"ELEMENT":"0.6650383775534927-5"},"index":0},
+{"ELEMENT":"0.6650383775534927-6","element-6066-11e4-a52e-4f735466cecf":"0.665038377553
+27-6","selector":".col9","value":
+{"ELEMENT":"0.6650383775534927-6"},"index":1}
+"ELEMENT":"0.6650383775534927-7","element-6066-11e4-a52e-4f735466cecf":"0.6650
+3775534927-7","selector":".col9","value":{"ELEMENT":"0.6650383775534927-7"},"i
+ex":2},{"ELEMENT":"0.6650383775534927-8","element-6066-11e4-a52e-4f735466cecf"
+0.6650383775534927-8","selector":".col9","value":{"ELEMENT":"0.665038377553492
+8"},"index":3},
+{"ELEMENT":"0.6650383775534927-9","element-6066-11e4-a52e-4f735
+6cecf":"0.6650383775534927-9","selector":".col9","value":{"ELEMENT":"0.6650383
+5534927-9"},"index":4},{"ELEMENT":"0.6650383775534927-10","element-6066-11e4-a
+e-4f735466cecf":"0.6650383775534927-10","selector":".col9","value":{"ELEMENT":
+.6650383775534927-10"},"index":5},{"ELEMENT":"0.6650383775534927-11","element-
+66-11e4-a52e-4f735466cecf":"0.6650383775534927-11","selector":".col9","value":
+ELEMENT":"0.6650383775534927-11"},"index":6}],"selector":".col9","_status":0}
+
+
+Then we drag "#slider-range > span.ui-slider-pip.ui-slider-pip-2" , "#slider-range > span.ui-slider-pip.ui-slider-pip-7" in "#slider-range > a:nth-child(2)" , "#slider-range > a:nth-child(3)"
+        
